@@ -10,7 +10,5 @@ for key, value in shopping_list.items():
 for key, values in shopping_list.items():
     print(f"Idę do {key.capitalize()} i kupuję tam {[value.capitalize() for value in values]}.")
 print(f"W sumie kupuję {count} produktów.")
-#zfsdfsdfs
-#gdfgdfgdfg
-vvv
+hhhhh
 
