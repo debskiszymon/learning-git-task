@@ -14,3 +14,4 @@ print(f"W sumie kupuję {count} produktów.")
 
 print("Hello")
 print("Hello!!")
+print("jest git!!")
